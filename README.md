@@ -10,25 +10,28 @@ Using bulleted lists, describe the balanced accuracy scores and the precision an
 
 * Machine Learning Model 1:
 
-  * Accuracy: 94.4%
+  * Accuracy: 92%
 
   * Precision:
 
     * Healthy Loans- 1.00
-    * High-Risk Loans- .87
+    * High-Risk Loans- 0.85
   * Recall:
 
-    * Healthy Loans- 1.00
-    * High-Risk Loans- .89
+    * Healthy Loans- 0.99
+    * High-Risk Loans- 0.91
 * Machine Learning Model 2:
 
-  * Accuracy: 99.6%
+  * Accuracy: 92%
 
   * Precision:
 
     * Healthy Loans- 1.00
-    * High-Risk Loans- .87
+    * High-Risk Loans- 0.84
   * Recall:
 
-    * Healthy Loans- 1.00
-    * High-Risk Loans- 1.00
+    * Healthy Loans- 0.99
+    * High-Risk Loans- 0.99
+
+# Summary
+I would recommand model 2 cuz it has higher recall than model one, with both the same accurary, 92%. Both predect well on health loan, so I perfer model two which can predict high-risk loan better.

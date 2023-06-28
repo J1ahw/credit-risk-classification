@@ -34,4 +34,4 @@ Using bulleted lists, describe the balanced accuracy scores and the precision an
     * High-Risk Loans- 0.99
 
 # Summary
-I would recommand model 2 cuz it has higher recall than model one, with both the same accurary, 92%. Both predect well on health loan, so I perfer model two which can predict high-risk loan better.
+I would recommand model 2 because it has higher recall than model one, with both the same accurary, 92%. Both predict well on health loan, so I perfer model two which can predict high-risk loan better.
